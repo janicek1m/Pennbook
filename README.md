@@ -1,8 +1,7 @@
 # Pennbook
+## Pennbook is a mini, yet scalable Facebook clone featuring 5 main components: user accounts with a username (UID) and hashed password with support for account changes and registration, account posts and updates with comments that are displayed on a user’s wall, home page, a direct message and group chat functionality with online users, the ability for users to add friends and visualize their network of friends, and a newsfeed customized to the user’s interests. 
 
-##Pennbook is a mini, yet scalable Facebook clone featuring 5 main components: user accounts with a username (UID) and hashed password with support for account changes and registration, account posts and updates with comments that are displayed on a user’s wall, home page, a direct message and group chat functionality with online users, the ability for users to add friends and visualize their network of friends, and a newsfeed customized to the user’s interests. 
-
-##Tech Stack
+## Tech Stack
 React was used for the frontend, Material UI for styling, Node.js/Express for the backend, DynamoDB to create database tables for backend storage, socket.io to allow browser-server communication for chat, Apache Spark and Amazon's Elastic MapReduce to handle big data analysis, and EC2 for hosting. Beyond the required tech stack, we decided to use React because it allows us to define reusable, custom components that are attached to state, offers high performance ​​with a virtual DOM program and server-side rendering, and seamless support for dynamic content by updating state after a set interval. 
 
 ## Features Implemented
